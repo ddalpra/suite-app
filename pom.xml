@@ -29,6 +29,9 @@
         </dependencies>
     </dependencyManagement>
 
+    <modules>
+    </modules>
+    
     <build>
         <plugins>
             <plugin>
